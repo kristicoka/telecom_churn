@@ -91,9 +91,7 @@ Models were evaluated using:
    - Significant variation across telecom partners (ranging from 19.99% to 20.36%)
 
 2. **Temporal Patterns**
-   - Higher churn rates in customers with shorter tenure (<6 months)
    - Peak registration months: March and December
-   - Weekend registrations showed 15% higher retention rates
 
 3. **Usage Patterns**
    - Weak correlation 
